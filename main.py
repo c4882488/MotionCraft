@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-Motion Photo 轉換工具
+MotionCraft - Motion Photo Conversion Tool
+Transform videos into Google Motion Photos format with automatic cleanup
 將影片轉換為Google Motion Photos格式，並自動清理臨時檔案
 """
 

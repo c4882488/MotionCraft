@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-Motion Photo 演示工具
+MotionCraft - Motion Photo Interactive Demo
+Showcase Motion Photo features and capabilities
 展示Motion Photo的各種功能和特性
 """
 
@@ -11,7 +12,8 @@ import re
 from pathlib import Path
 
 def show_banner():
-    print("🎭 Motion Photo 演示")
+    print("🎬✨ MotionCraft - Interactive Demo")
+    print("   Where videos come alive in photographs")
     print("=" * 50)
 
 def show_file_info(filepath):

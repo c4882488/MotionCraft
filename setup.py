@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-Motion Photo 環境設置工具
+MotionCraft - Environment Setup Tool
+Check and install required dependencies
 檢查並安裝所需的依賴套件
 """
 

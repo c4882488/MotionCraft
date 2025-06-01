@@ -6,6 +6,7 @@ dist/
 wheels/
 *.egg-info
 batch_convert.py
+PROJECT_DETAILS.md
 
 # Virtual environments
 .venv

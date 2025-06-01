@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-Motion Photo 驗證工具
+MotionCraft - Motion Photo Verification Tool
+Verify Motion Photo files comply with Google Motion Photos 1.0 specification
 驗證Motion Photo檔案是否符合Google Motion Photos 1.0規範
 """
 
